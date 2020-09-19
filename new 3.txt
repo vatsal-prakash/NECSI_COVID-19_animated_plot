@@ -1,0 +1,15 @@
+
+
+//India Page
+@media @mobile{
+ 
+#block-yui_3_17_2_1_1600042807570_44553
+iframe{
+    height: 7000px;
+  } 
+ #block-2e144a4cd25ba4884161
+iframe{
+    height: 4800px;
+  } 
+ 
+}
